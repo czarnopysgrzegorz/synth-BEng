@@ -1,0 +1,9 @@
+build/
+*.app
+*.o
+*.a
+*.dSYM
+.DS_Store
+JUCE/examples/
+JUCE/docs/
+JUCE/extras/
